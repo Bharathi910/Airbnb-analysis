@@ -1,3 +1,5 @@
+**Working Video:** https://www.linkedin.com/feed/update/urn:li:ugcPost:7221481052182081536/
+
 # Airbnb-analysis
 
 MongoDB Connection and Data Retrieval: Establish a connection to the MongoDB Atlas database and retrieve the Airbnb dataset. Perform queries and data retrieval operations to extract the necessary information for your analysis.
